@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>AkamaiSample</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>com.adobe.flexbuilder.project.flexbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.adobe.flexbuilder.project.flexnature</nature>
+		<nature>com.adobe.flexbuilder.project.actionscriptnature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>[source path] AkamaiBasicStreamingPlugin-src</name>
+			<type>2</type>
+			<locationURI>DOCUMENTS/samples/AkamaiBasicStreamingPlugin/src</locationURI>
+		</link>
+		<link>
+			<name>[source path] MASTPlugin-src</name>
+			<type>2</type>
+			<locationURI>DOCUMENTS/samples/MASTPlugin/src</locationURI>
+		</link>
+		<link>
+			<name>[source path] SMILPlugin-src</name>
+			<type>2</type>
+			<locationURI>DOCUMENTS/samples/SMILPlugin/src</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
