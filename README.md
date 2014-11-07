@@ -1,4 +1,4 @@
 OSMF
 ====
 
-OpenSource Media Framework
+OSMF library which is maintained by DENIVIP team.
